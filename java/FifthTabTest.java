@@ -34,6 +34,7 @@ public class FifthTabTest {
      * Проверка работоспособности элементов пятой вкладки.
      * @throws InterruptedException
      */
+	 // new 
     @Test
     public void fifthTab_test() throws InterruptedException {
 
